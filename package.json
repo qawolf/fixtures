@@ -1,0 +1,38 @@
+{
+  "name": "@qawolf/fixtures",
+  "version": "1.8.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "events"
+  ],
+  "scripts": {
+    "prepare": "tsc -p .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qawolf/fixtures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qawolf/fixtures/issues"
+  },
+  "homepage": "https://github.com/qawolf/fixtures#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.0",
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  },
+  "np": {
+    "yarn": false
+  }
+}
