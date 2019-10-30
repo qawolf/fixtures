@@ -1,53 +1,5 @@
 [
   {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964808189,
-    "value": "t",
-    "pageId": 0
-  },
-  {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964808282,
-    "value": "t",
-    "pageId": 0
-  },
-  {
     "action": "click",
     "isTrusted": true,
     "target": {
@@ -63,59 +15,11 @@
       "parentText": ["form authentication", "form authentication"],
       "placeholder": null,
       "tagName": "a",
-      "textContent": "form authentication",
+      "innerText": "form authentication",
       "title": null,
       "xpath": "//*[@id='content']/ul/li[18]/a"
     },
-    "time": 1571964811449,
-    "pageId": 0
-  },
-  {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964811491,
-    "value": "t",
-    "pageId": 0
-  },
-  {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964811536,
-    "value": "t",
+    "time": 1572465002176,
     "pageId": 0
   },
   {
@@ -134,11 +38,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964812595,
+    "time": 1572465003393,
     "pageId": 0
   },
   {
@@ -157,11 +61,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813052,
+    "time": 1572465003846,
     "value": "t",
     "pageId": 0
   },
@@ -181,11 +85,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813214,
+    "time": 1572465003968,
     "value": "to",
     "pageId": 0
   },
@@ -205,11 +109,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813332,
+    "time": 1572465004078,
     "value": "tom",
     "pageId": 0
   },
@@ -229,11 +133,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813549,
+    "time": 1572465004195,
     "value": "toms",
     "pageId": 0
   },
@@ -253,11 +157,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813722,
+    "time": 1572465004292,
     "value": "tomsm",
     "pageId": 0
   },
@@ -277,11 +181,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813846,
+    "time": 1572465004390,
     "value": "tomsmi",
     "pageId": 0
   },
@@ -301,11 +205,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964813970,
+    "time": 1572465004526,
     "value": "tomsmit",
     "pageId": 0
   },
@@ -325,11 +229,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964814091,
+    "time": 1572465004615,
     "value": "tomsmith",
     "pageId": 0
   },
@@ -349,11 +253,11 @@
       "parentText": ["username", "username"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='username']"
     },
-    "time": 1571964815367,
+    "time": 1572465005998,
     "value": "tomsmith",
     "pageId": 0
   },
@@ -373,11 +277,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964815470,
+    "time": 1572465006096,
     "pageId": 0
   },
   {
@@ -396,11 +300,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964815978,
+    "time": 1572465006710,
     "value": "S",
     "pageId": 0
   },
@@ -420,11 +324,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964816254,
+    "time": 1572465006967,
     "value": "Su",
     "pageId": 0
   },
@@ -444,11 +348,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964816358,
+    "time": 1572465007174,
     "value": "Sup",
     "pageId": 0
   },
@@ -468,11 +372,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964816508,
+    "time": 1572465007307,
     "value": "Supe",
     "pageId": 0
   },
@@ -492,11 +396,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964816630,
+    "time": 1572465007552,
     "value": "Super",
     "pageId": 0
   },
@@ -516,11 +420,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964816924,
+    "time": 1572465008003,
     "value": "SuperS",
     "pageId": 0
   },
@@ -540,11 +444,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964817197,
+    "time": 1572465008289,
     "value": "SuperSe",
     "pageId": 0
   },
@@ -564,11 +468,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964817836,
+    "time": 1572465008532,
     "value": "SuperSec",
     "pageId": 0
   },
@@ -588,11 +492,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964818107,
+    "time": 1572465008709,
     "value": "SuperSecr",
     "pageId": 0
   },
@@ -612,11 +516,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964818248,
+    "time": 1572465008824,
     "value": "SuperSecre",
     "pageId": 0
   },
@@ -636,11 +540,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964818421,
+    "time": 1572465008980,
     "value": "SuperSecret",
     "pageId": 0
   },
@@ -660,11 +564,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964818798,
+    "time": 1572465009682,
     "value": "SuperSecretP",
     "pageId": 0
   },
@@ -684,11 +588,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819045,
+    "time": 1572465009927,
     "value": "SuperSecretPa",
     "pageId": 0
   },
@@ -708,11 +612,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819183,
+    "time": 1572465010092,
     "value": "SuperSecretPas",
     "pageId": 0
   },
@@ -732,11 +636,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819348,
+    "time": 1572465010224,
     "value": "SuperSecretPass",
     "pageId": 0
   },
@@ -756,11 +660,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819616,
+    "time": 1572465010419,
     "value": "SuperSecretPassw",
     "pageId": 0
   },
@@ -780,11 +684,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819777,
+    "time": 1572465010583,
     "value": "SuperSecretPasswo",
     "pageId": 0
   },
@@ -804,11 +708,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964819923,
+    "time": 1572465010736,
     "value": "SuperSecretPasswor",
     "pageId": 0
   },
@@ -828,11 +732,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964820093,
+    "time": 1572465010916,
     "value": "SuperSecretPassword",
     "pageId": 0
   },
@@ -852,11 +756,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964820570,
+    "time": 1572465011236,
     "value": "SuperSecretPassword!",
     "pageId": 0
   },
@@ -876,11 +780,11 @@
       "parentText": ["password", "password"],
       "placeholder": null,
       "tagName": "input",
-      "textContent": null,
+      "innerText": null,
       "title": null,
       "xpath": "//*[@id='password']"
     },
-    "time": 1571964821741,
+    "time": 1572465011528,
     "value": "SuperSecretPassword!",
     "pageId": 0
   },
@@ -889,70 +793,50 @@
     "isTrusted": true,
     "target": {
       "ariaLabel": null,
-      "classList": ["fa", "fa-2x", "fa-sign-in"],
+      "classList": ["radius"],
       "dataValue": null,
       "href": null,
       "iconContent": ["fa", "fa-2x", "fa-sign-in"],
       "id": null,
+      "inputType": "submit",
+      "labels": null,
+      "name": null,
+      "parentText": [
+        "username",
+        "password",
+        "login",
+        "username password login"
+      ],
+      "placeholder": null,
+      "tagName": "button",
+      "innerText": "login",
+      "title": null,
+      "xpath": "//*[@id='login']/button"
+    },
+    "time": 1572465011529,
+    "pageId": 0
+  },
+  {
+    "action": "click",
+    "isTrusted": true,
+    "target": {
+      "ariaLabel": null,
+      "classList": ["icon-2x", "icon-signout"],
+      "dataValue": null,
+      "href": null,
+      "iconContent": ["icon-2x", "icon-signout"],
+      "id": null,
       "inputType": null,
       "labels": null,
       "name": null,
-      "parentText": ["login", "login"],
+      "parentText": ["logout", "logout"],
       "placeholder": null,
       "tagName": "i",
-      "textContent": "login",
+      "innerText": "logout",
       "title": null,
-      "xpath": "//*[@id='login']/button/i"
+      "xpath": "//*[@id='content']/div/a/i"
     },
-    "time": 1571964821818,
-    "pageId": 0
-  },
-  {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964821867,
-    "value": "t",
-    "pageId": 0
-  },
-  {
-    "action": "input",
-    "isTrusted": false,
-    "target": {
-      "ariaLabel": null,
-      "classList": null,
-      "dataValue": null,
-      "href": null,
-      "iconContent": null,
-      "id": null,
-      "inputType": "text",
-      "labels": null,
-      "name": null,
-      "parentText": null,
-      "placeholder": null,
-      "tagName": "input",
-      "textContent": null,
-      "title": null,
-      "xpath": "/input"
-    },
-    "time": 1571964821900,
-    "value": "t",
+    "time": 1572465012796,
     "pageId": 0
   }
 ]
