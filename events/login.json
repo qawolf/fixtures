@@ -1,2071 +1,718 @@
 [
   {
-   "isTrusted": true,
-   "name": "click",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": "http://localhost:5000/login",
-    "iconContent": null,
-    "id": null,
-    "inputType": null,
-    "labels": null,
-    "name": null,
-    "parentText": [
-     "form authentication",
-     "form authentication"
-    ],
-    "placeholder": null,
-    "tagName": "a",
-    "innerText": "form authentication",
-    "title": null,
-    "xpath": "//*[@id='content']/ul/li[18]/a"
-   },
-   "time": 1573094075614,
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "click",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094076453,
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077300,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077375,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077422,
-   "value": "KeyO",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077502,
-   "value": "KeyO",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077544,
-   "value": "KeyM",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077622,
-   "value": "KeyM",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077631,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077703,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077758,
-   "value": "KeyM",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077830,
-   "value": "KeyM",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077867,
-   "value": "KeyI",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077946,
-   "value": "KeyI",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094077985,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094078042,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094078070,
-   "value": "KeyH",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "username",
-    "inputType": "text",
-    "labels": [
-     "username"
-    ],
-    "name": "username",
-    "parentText": [
-     "username",
-     "username"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='username']"
-   },
-   "time": 1573094078137,
-   "value": "KeyH",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "click",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094078928,
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079269,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079399,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079467,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079507,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079617,
-   "value": "KeyU",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079656,
-   "value": "KeyU",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079729,
-   "value": "KeyP",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094079816,
-   "value": "KeyP",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094081597,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094081688,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094082501,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094082601,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083039,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083147,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083219,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083251,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083354,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083429,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083499,
-   "value": "KeyC",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083567,
-   "value": "KeyC",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083671,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083758,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083792,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083872,
-   "value": "KeyE",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094083926,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084002,
-   "value": "KeyT",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084193,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084351,
-   "value": "KeyP",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084421,
-   "value": "KeyP",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084434,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084585,
-   "value": "KeyA",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084677,
-   "value": "KeyA",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084723,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084922,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094084980,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085118,
-   "value": "KeyS",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085227,
-   "value": "KeyW",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085323,
-   "value": "KeyW",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085352,
-   "value": "KeyO",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085423,
-   "value": "KeyO",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085452,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085520,
-   "value": "KeyR",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085616,
-   "value": "KeyD",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085679,
-   "value": "KeyD",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085756,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085908,
-   "value": "Digit1",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094085992,
-   "value": "ShiftLeft",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094086004,
-   "value": "Digit1",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keydown",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": null,
-    "id": "password",
-    "inputType": "password",
-    "labels": [
-     "password"
-    ],
-    "name": "password",
-    "parentText": [
-     "password",
-     "password"
-    ],
-    "placeholder": null,
-    "tagName": "input",
-    "innerText": null,
-    "title": null,
-    "xpath": "//*[@id='password']"
-   },
-   "time": 1573094086684,
-   "value": "Enter",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "click",
-   "target": {
-    "ariaLabel": null,
-    "classList": [
-     "radius"
-    ],
-    "dataValue": null,
-    "href": null,
-    "iconContent": [
-     "fa",
-     "fa-2x",
-     "fa-sign-in"
-    ],
-    "id": null,
-    "inputType": "submit",
-    "labels": null,
-    "name": null,
-    "parentText": [
-     "username",
-     "password",
-     "login",
-     "username password login"
-    ],
-    "placeholder": null,
-    "tagName": "button",
-    "innerText": "login",
-    "title": null,
-    "xpath": "//*[@id='login']/button"
-   },
-   "time": 1573094086686,
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "keyup",
-   "target": {
-    "ariaLabel": null,
-    "classList": null,
-    "dataValue": null,
-    "href": null,
-    "iconContent": [
-     "icon-lock",
-     "icon-2x",
-     "icon-signout"
-    ],
-    "id": null,
-    "inputType": null,
-    "labels": null,
-    "name": null,
-    "parentText": [
-     "the internet $(document).foundation();",
-     "you logged into a secure area! × secure area welcome to the secure area. when you are done click logout below. logout powered by elemental selenium",
-     "you logged into a secure area! × secure area welcome to the secure area. when you are done click logout below. logout powered by elemental selenium"
-    ],
-    "placeholder": null,
-    "tagName": "body",
-    "innerText": "you logged into a secure area! × secure area welcome to the secure area. when you are done click logout below. logout powered by elemental selenium",
-    "title": null,
-    "xpath": "/html/body"
-   },
-   "time": 1573094086785,
-   "value": "Enter",
-   "pageId": 0
-  },
-  {
-   "isTrusted": true,
-   "name": "click",
-   "target": {
-    "ariaLabel": null,
-    "classList": [
-     "button",
-     "secondary",
-     "radius"
-    ],
-    "dataValue": null,
-    "href": "http://localhost:5000/logout",
-    "iconContent": [
-     "icon-2x",
-     "icon-signout"
-    ],
-    "id": null,
-    "inputType": null,
-    "labels": null,
-    "name": null,
-    "parentText": [
-     "secure area",
-     "welcome to the secure area. when you are done click logout below.",
-     "logout",
-     "secure area welcome to the secure area. when you are done click logout below. logout"
-    ],
-    "placeholder": null,
-    "tagName": "a",
-    "innerText": "logout",
-    "title": null,
-    "xpath": "//*[@id='content']/div/a"
-   },
-   "time": 1573094088901,
-   "pageId": 0
+    "isTrusted": true,
+    "name": "click",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279551899,
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279552633,
+    "value": "t",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279552686,
+    "value": "t",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279552768,
+    "value": "o",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279552861,
+    "value": "o",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279552928,
+    "value": "m",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553016,
+    "value": "m",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553281,
+    "value": "s",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553372,
+    "value": "s",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553543,
+    "value": "m",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553643,
+    "value": "m",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553692,
+    "value": "i",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553786,
+    "value": "i",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553787,
+    "value": "t",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553866,
+    "value": "t",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553926,
+    "value": "h",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279553986,
+    "value": "h",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "username",
+      "inputType": "text",
+      "isContentEditable": false,
+      "labels": ["username"],
+      "name": "username",
+      "parentText": ["username", "username"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='username']"
+    },
+    "time": 1574279554599,
+    "value": "Tab",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279554683,
+    "value": "Tab",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279555059,
+    "value": "Meta",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279555251,
+    "value": "v",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "paste",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279555437,
+    "value": "SuperSecretPassword!",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279555440,
+    "value": "Meta",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279555441,
+    "value": "v",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keydown",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": null,
+      "dataValue": null,
+      "href": null,
+      "iconContent": null,
+      "id": "password",
+      "inputType": "password",
+      "isContentEditable": false,
+      "labels": ["password"],
+      "name": "password",
+      "parentText": ["password", "password"],
+      "placeholder": null,
+      "src": null,
+      "innerText": null,
+      "tagName": "input",
+      "title": null,
+      "xpath": "//*[@id='password']"
+    },
+    "time": 1574279557034,
+    "value": "Enter",
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "click",
+    "target": {
+      "alt": null,
+      "ariaLabel": null,
+      "classList": ["radius"],
+      "dataValue": null,
+      "href": null,
+      "iconContent": ["fa", "fa-2x", "fa-sign-in"],
+      "id": null,
+      "inputType": "submit",
+      "isContentEditable": false,
+      "labels": null,
+      "name": null,
+      "parentText": [
+        "username",
+        "password",
+        "login",
+        "username password login"
+      ],
+      "placeholder": null,
+      "src": null,
+      "innerText": "login",
+      "tagName": "button",
+      "title": null,
+      "xpath": "//*[@id='login']/button"
+    },
+    "time": 1574279557035,
+    "pageId": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "keyup",
+    "target": {
+      "tagName": "body",
+      "xpath": "/html/body"
+    },
+    "time": 1574279557121,
+    "value": "Enter",
+    "pageId": 0
   }
- ]
- 
+]

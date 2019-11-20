@@ -1,0 +1,1056 @@
+[
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025409,
+  "value": {
+   "x": 0,
+   "y": 1
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025432,
+  "value": {
+   "x": 0,
+   "y": 37
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025448,
+  "value": {
+   "x": 0,
+   "y": 61
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025464,
+  "value": {
+   "x": 0,
+   "y": 84
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025481,
+  "value": {
+   "x": 0,
+   "y": 137
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025498,
+  "value": {
+   "x": 0,
+   "y": 193
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025514,
+  "value": {
+   "x": 0,
+   "y": 261
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025531,
+  "value": {
+   "x": 0,
+   "y": 330
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025548,
+  "value": {
+   "x": 0,
+   "y": 396
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "scroll",
+  "target": {
+   "tagName": "html",
+   "xpath": "/html"
+  },
+  "time": 1574280025565,
+  "value": {
+   "x": 0,
+   "y": 457
+  },
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "click",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": "http://localhost:5000/login",
+   "iconContent": null,
+   "id": null,
+   "inputType": null,
+   "isContentEditable": false,
+   "labels": null,
+   "name": null,
+   "parentText": [
+    "form authentication",
+    "form authentication"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": "form authentication",
+   "tagName": "a",
+   "title": null,
+   "xpath": "//*[@id='content']/ul/li[18]/a"
+  },
+  "time": 1574280027309,
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "click",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028203,
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028526,
+  "value": "t",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028593,
+  "value": "t",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028715,
+  "value": "o",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028790,
+  "value": "o",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028840,
+  "value": "m",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028937,
+  "value": "m",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280028976,
+  "value": "s",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029060,
+  "value": "s",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029071,
+  "value": "m",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029180,
+  "value": "m",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029200,
+  "value": "i",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029301,
+  "value": "i",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029330,
+  "value": "t",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029419,
+  "value": "t",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029476,
+  "value": "h",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280029535,
+  "value": "h",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "username",
+   "inputType": "text",
+   "isContentEditable": false,
+   "labels": [
+    "username"
+   ],
+   "name": "username",
+   "parentText": [
+    "username",
+    "username"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='username']"
+  },
+  "time": 1574280031025,
+  "value": "Tab",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031097,
+  "value": "Tab",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031518,
+  "value": "Meta",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031738,
+  "value": "v",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "paste",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031866,
+  "value": "SuperSecretPassword!",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031869,
+  "value": "Meta",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280031869,
+  "value": "v",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keydown",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": null,
+   "dataValue": null,
+   "href": null,
+   "iconContent": null,
+   "id": "password",
+   "inputType": "password",
+   "isContentEditable": false,
+   "labels": [
+    "password"
+   ],
+   "name": "password",
+   "parentText": [
+    "password",
+    "password"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": null,
+   "tagName": "input",
+   "title": null,
+   "xpath": "//*[@id='password']"
+  },
+  "time": 1574280032666,
+  "value": "Enter",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "click",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": [
+    "radius"
+   ],
+   "dataValue": null,
+   "href": null,
+   "iconContent": [
+    "fa",
+    "fa-2x",
+    "fa-sign-in"
+   ],
+   "id": null,
+   "inputType": "submit",
+   "isContentEditable": false,
+   "labels": null,
+   "name": null,
+   "parentText": [
+    "username",
+    "password",
+    "login",
+    "username password login"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": "login",
+   "tagName": "button",
+   "title": null,
+   "xpath": "//*[@id='login']/button"
+  },
+  "time": 1574280032667,
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "keyup",
+  "target": {
+   "tagName": "body",
+   "xpath": "/html/body"
+  },
+  "time": 1574280032752,
+  "value": "Enter",
+  "pageId": 0
+ },
+ {
+  "isTrusted": true,
+  "name": "click",
+  "target": {
+   "alt": null,
+   "ariaLabel": null,
+   "classList": [
+    "button",
+    "secondary",
+    "radius"
+   ],
+   "dataValue": null,
+   "href": "http://localhost:5000/logout",
+   "iconContent": [
+    "icon-2x",
+    "icon-signout"
+   ],
+   "id": null,
+   "inputType": null,
+   "isContentEditable": false,
+   "labels": null,
+   "name": null,
+   "parentText": [
+    "secure area",
+    "welcome to the secure area. when you are done click logout below.",
+    "logout",
+    "secure area welcome to the secure area. when you are done click logout below. logout"
+   ],
+   "placeholder": null,
+   "src": null,
+   "innerText": "logout",
+   "tagName": "a",
+   "title": null,
+   "xpath": "//*[@id='content']/div/a"
+  },
+  "time": 1574280036707,
+  "pageId": 0
+ }
+]
