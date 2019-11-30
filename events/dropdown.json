@@ -1,0 +1,177 @@
+[
+  {
+    "isTrusted": true,
+    "name": "dropdown",
+    "target": {
+      "node": {
+        "type": "tag",
+        "name": "select",
+        "voidElement": false,
+        "attrs": {
+          "id": "dropdown"
+        },
+        "children": [
+          {
+            "type": "text",
+            "content": "      "
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "",
+              "disabled": "disabled",
+              "selected": "selected"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Please select an option"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "1"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Option 1"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "2"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Option 2"
+              }
+            ]
+          }
+        ]
+      },
+      "ancestors": [
+        {
+          "type": "tag",
+          "name": "div",
+          "voidElement": false,
+          "attrs": {
+            "class": "example"
+          },
+          "children": []
+        },
+        {
+          "type": "tag",
+          "name": "div",
+          "voidElement": false,
+          "attrs": {
+            "id": "content",
+            "class": "large-12 columns"
+          },
+          "children": []
+        }
+      ]
+    },
+    "time": 1575139028332,
+    "page": 0
+  },
+  {
+    "isTrusted": true,
+    "name": "input",
+    "target": {
+      "node": {
+        "type": "tag",
+        "name": "select",
+        "voidElement": false,
+        "attrs": {
+          "id": "dropdown"
+        },
+        "children": [
+          {
+            "type": "text",
+            "content": "      "
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "",
+              "disabled": "disabled",
+              "selected": "selected"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Please select an option"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "1"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Option 1"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "option",
+            "voidElement": false,
+            "attrs": {
+              "value": "2"
+            },
+            "children": [
+              {
+                "type": "text",
+                "content": "Option 2"
+              }
+            ]
+          }
+        ]
+      },
+      "ancestors": [
+        {
+          "type": "tag",
+          "name": "div",
+          "voidElement": false,
+          "attrs": {
+            "class": "example"
+          },
+          "children": []
+        },
+        {
+          "type": "tag",
+          "name": "div",
+          "voidElement": false,
+          "attrs": {
+            "id": "content",
+            "class": "large-12 columns"
+          },
+          "children": []
+        }
+      ]
+    },
+    "time": 1575139029375,
+    "value": "2",
+    "page": 0
+  }
+]
