@@ -1,0 +1,1508 @@
+{
+ "name": "scroll_login",
+ "size": "desktop",
+ "steps": [
+  {
+   "action": "scroll",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "html",
+     "voidElement": false,
+     "attrs": {
+      "class": "no-js",
+      "lang": "en"
+     },
+     "children": [
+      {
+       "type": "tag",
+       "name": "--",
+       "voidElement": false,
+       "attrs": {
+        "endif": "--"
+       },
+       "children": [
+        {
+         "type": "tag",
+         "name": "head",
+         "voidElement": false,
+         "attrs": {},
+         "children": [
+          {
+           "type": "text",
+           "content": "    "
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {
+            "src": "/js/vendor/298279967.js"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "meta",
+           "voidElement": true,
+           "attrs": {
+            "charset": "utf-8"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "meta",
+           "voidElement": true,
+           "attrs": {
+            "name": "viewport",
+            "content": "width=device-width"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "title",
+           "voidElement": false,
+           "attrs": {},
+           "children": [
+            {
+             "type": "text",
+             "content": "The Internet"
+            }
+           ]
+          },
+          {
+           "type": "tag",
+           "name": "link",
+           "voidElement": true,
+           "attrs": {
+            "href": "/css/app.css",
+            "rel": "stylesheet"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "link",
+           "voidElement": true,
+           "attrs": {
+            "href": "/css/font-awesome.css",
+            "rel": "stylesheet"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {
+            "src": "/js/vendor/jquery-1.11.3.min.js"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {
+            "src": "/js/vendor/jquery-ui-1.11.4/jquery-ui.js"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {
+            "src": "/js/foundation/foundation.js"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "meta",
+           "voidElement": true,
+           "attrs": {
+            "class": "foundation-mq-small"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "meta",
+           "voidElement": true,
+           "attrs": {
+            "class": "foundation-mq-medium"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "meta",
+           "voidElement": true,
+           "attrs": {
+            "class": "foundation-mq-large"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "style",
+           "voidElement": false,
+           "attrs": {},
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {
+            "src": "/js/foundation/foundation.alerts.js"
+           },
+           "children": []
+          },
+          {
+           "type": "tag",
+           "name": "script",
+           "voidElement": false,
+           "attrs": {},
+           "children": [
+            {
+             "type": "text",
+             "content": "      $(document).foundation();    "
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "tag",
+         "name": "body",
+         "voidElement": false,
+         "attrs": {},
+         "children": [
+          {
+           "type": "text",
+           "content": "    "
+          },
+          {
+           "type": "tag",
+           "name": "div",
+           "voidElement": false,
+           "attrs": {
+            "class": "row"
+           },
+           "children": [
+            {
+             "type": "text",
+             "content": "      "
+            },
+            {
+             "type": "tag",
+             "name": "div",
+             "voidElement": false,
+             "attrs": {
+              "id": "flash-messages",
+              "class": "large-12 columns"
+             },
+             "children": [
+              {
+               "type": "text",
+               "content": "                                                      "
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "tag",
+           "name": "div",
+           "voidElement": false,
+           "attrs": {
+            "class": "row"
+           },
+           "children": [
+            {
+             "type": "text",
+             "content": "      "
+            },
+            {
+             "type": "tag",
+             "name": "a",
+             "voidElement": false,
+             "attrs": {
+              "href": "https://github.com/tourdedave/the-internet"
+             },
+             "children": [
+              {
+               "type": "tag",
+               "name": "img",
+               "voidElement": true,
+               "attrs": {
+                "style": "position: absolute; top: 0; right: 0; border: 0;",
+                "src": "/img/forkme_right_green_007200.png",
+                "alt": "Fork me on GitHub"
+               },
+               "children": []
+              }
+             ]
+            },
+            {
+             "type": "tag",
+             "name": "div",
+             "voidElement": false,
+             "attrs": {
+              "id": "content",
+              "class": "large-12 columns"
+             },
+             "children": [
+              {
+               "type": "text",
+               "content": "        "
+              },
+              {
+               "type": "tag",
+               "name": "style",
+               "voidElement": false,
+               "attrs": {},
+               "children": [
+                {
+                 "type": "text",
+                 "content": "ul {  list-style-type: none;  margin: 0;  padding: 0;}"
+                }
+               ]
+              },
+              {
+               "type": "tag",
+               "name": "h1",
+               "voidElement": false,
+               "attrs": {
+                "class": "heading"
+               },
+               "children": [
+                {
+                 "type": "text",
+                 "content": "Welcome to the-internet"
+                }
+               ]
+              },
+              {
+               "type": "tag",
+               "name": "h2",
+               "voidElement": false,
+               "attrs": {},
+               "children": [
+                {
+                 "type": "text",
+                 "content": "Available Examples"
+                }
+               ]
+              },
+              {
+               "type": "tag",
+               "name": "ul",
+               "voidElement": false,
+               "attrs": {},
+               "children": [
+                {
+                 "type": "text",
+                 "content": "  "
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/abtest"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "A/B Testing"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/basic_auth"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Basic Auth"
+                    }
+                   ]
+                  },
+                  {
+                   "type": "text",
+                   "content": " (user and pass: admin)"
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/broken_images"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Broken Images"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/challenging_dom"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Challenging DOM"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/checkboxes"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Checkboxes"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/context_menu"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Context Menu"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/disappearing_elements"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Disappearing Elements"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/drag_and_drop"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Drag and Drop"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/dropdown"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Dropdown"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/dynamic_content"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Dynamic Content"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/dynamic_controls"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Dynamic Controls"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/dynamic_loading"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Dynamic Loading"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/exit_intent"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Exit Intent"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/download"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "File Download"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/upload"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "File Upload"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/floating_menu"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Floating Menu"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/forgot_password"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Forgot Password"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/login"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Form Authentication"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/frames"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Frames"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/geolocation"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Geolocation"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/horizontal_slider"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Horizontal Slider"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/hovers"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Hovers"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/infinite_scroll"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Infinite Scroll"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/jqueryui/menu"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "JQuery UI Menus"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/javascript_alerts"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "JavaScript Alerts"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/javascript_error"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "JavaScript onload event error"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/key_presses"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Key Presses"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/large"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Large &amp; Deep DOM"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/windows"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Multiple Windows"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/nested_frames"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Nested Frames"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/notification_message"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Notification Messages"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/redirector"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Redirect Link"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/download_secure"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Secure File Download"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/shifting_content"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Shifting Content"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/slow"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Slow Resources"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/tables"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Sortable Data Tables"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/status_codes"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Status Codes"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/typos"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "Typos"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "type": "tag",
+                 "name": "li",
+                 "voidElement": false,
+                 "attrs": {},
+                 "children": [
+                  {
+                   "type": "tag",
+                   "name": "a",
+                   "voidElement": false,
+                   "attrs": {
+                    "href": "/tinymce"
+                   },
+                   "children": [
+                    {
+                     "type": "text",
+                     "content": "WYSIWYG Editor"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "tag",
+           "name": "div",
+           "voidElement": false,
+           "attrs": {
+            "id": "page-footer",
+            "class": "row"
+           },
+           "children": [
+            {
+             "type": "text",
+             "content": "      "
+            },
+            {
+             "type": "tag",
+             "name": "div",
+             "voidElement": false,
+             "attrs": {
+              "class": "large-4 large-centered columns"
+             },
+             "children": [
+              {
+               "type": "text",
+               "content": "        "
+              },
+              {
+               "type": "tag",
+               "name": "hr",
+               "voidElement": true,
+               "attrs": {},
+               "children": []
+              },
+              {
+               "type": "tag",
+               "name": "div",
+               "voidElement": false,
+               "attrs": {
+                "style": "text-align: center;"
+               },
+               "children": [
+                {
+                 "type": "text",
+                 "content": "Powered by "
+                },
+                {
+                 "type": "tag",
+                 "name": "a",
+                 "voidElement": false,
+                 "attrs": {
+                  "target": "_blank",
+                  "href": "http://elementalselenium.com/"
+                 },
+                 "children": [
+                  {
+                   "type": "text",
+                   "content": "Elemental Selenium"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "ancestors": []
+   },
+   "index": 0,
+   "page": 0,
+   "value": {
+    "x": 0,
+    "y": 457
+   }
+  },
+  {
+   "action": "click",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "a",
+     "voidElement": false,
+     "attrs": {
+      "href": "/login"
+     },
+     "children": [
+      {
+       "type": "text",
+       "content": "Form Authentication"
+      }
+     ]
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "li",
+      "voidElement": false,
+      "attrs": {},
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "ul",
+      "voidElement": false,
+      "attrs": {},
+      "children": []
+     }
+    ]
+   },
+   "index": 1,
+   "page": 0
+  },
+  {
+   "action": "type",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "input",
+     "voidElement": true,
+     "attrs": {
+      "type": "text",
+      "name": "username",
+      "id": "username"
+     },
+     "children": []
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "large-6 small-12 columns"
+      },
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "row"
+      },
+      "children": []
+     }
+    ]
+   },
+   "index": 2,
+   "page": 0,
+   "value": "↓KeyT↑KeyT↓KeyO↑KeyO↓KeyM↑KeyM↓KeyS↓KeyM↑KeyS↑KeyM↓KeyI↑KeyI↓KeyT↑KeyT↓KeyH↑KeyH"
+  },
+  {
+   "action": "type",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "input",
+     "voidElement": true,
+     "attrs": {
+      "type": "text",
+      "name": "username",
+      "id": "username"
+     },
+     "children": []
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "large-6 small-12 columns"
+      },
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "row"
+      },
+      "children": []
+     }
+    ]
+   },
+   "index": 3,
+   "page": 0,
+   "value": "↓Tab↑Tab"
+  },
+  {
+   "action": "type",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "input",
+     "voidElement": true,
+     "attrs": {
+      "type": "password",
+      "name": "password",
+      "id": "password"
+     },
+     "children": []
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "large-6 small-12 columns"
+      },
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "row"
+      },
+      "children": []
+     }
+    ]
+   },
+   "index": 4,
+   "page": 0,
+   "value": "↓Shift↓KeyS↑KeyS↑Shift↓KeyU↑KeyU↓KeyP↑KeyP↓KeyE↑KeyE↓KeyR↑KeyR↓Shift↓KeyS↑KeyS↑Shift↓KeyE↑KeyE↓KeyC↑KeyC↓KeyR↑KeyR↓KeyE↑KeyE↓KeyT↑KeyT↓Shift↓KeyP↑KeyP↑Shift↓KeyA↑KeyA↓KeyS↑KeyS↓KeyS↑KeyS↓KeyW↑KeyW↓KeyO↑KeyO↓KeyR↑KeyR↓KeyD↑KeyD↓Shift↓Digit1↑Digit1↑Shift"
+  },
+  {
+   "action": "type",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "input",
+     "voidElement": true,
+     "attrs": {
+      "type": "password",
+      "name": "password",
+      "id": "password"
+     },
+     "children": []
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "large-6 small-12 columns"
+      },
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "row"
+      },
+      "children": []
+     }
+    ]
+   },
+   "index": 5,
+   "page": 0,
+   "value": "↓Enter↑Enter"
+  },
+  {
+   "action": "click",
+   "html": {
+    "node": {
+     "type": "tag",
+     "name": "a",
+     "voidElement": false,
+     "attrs": {
+      "class": "button secondary radius",
+      "href": "/logout"
+     },
+     "children": [
+      {
+       "type": "tag",
+       "name": "i",
+       "voidElement": false,
+       "attrs": {
+        "class": "icon-2x icon-signout"
+       },
+       "children": [
+        {
+         "type": "text",
+         "content": " Logout"
+        }
+       ]
+      }
+     ]
+    },
+    "ancestors": [
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "class": "example"
+      },
+      "children": []
+     },
+     {
+      "type": "tag",
+      "name": "div",
+      "voidElement": false,
+      "attrs": {
+       "id": "content",
+       "class": "large-12 columns"
+      },
+      "children": []
+     }
+    ]
+   },
+   "index": 6,
+   "page": 0
+  }
+ ],
+ "url": "localhost:5000"
+}

@@ -1,6 +1,11 @@
-import { loadEvents } from "./index";
+import { loadEvents, loadWorkflow } from "./index";
 
-test("loadEvents load events", async () => {
+test("loadEvents loads events", async () => {
   const events = await loadEvents("scroll_login");
+  expect(events).toBeTruthy();
+});
+
+test("loadWorkflow loads a workflow", async () => {
+  const events = await loadWorkflow("scroll_login");
   expect(events).toBeTruthy();
 });
