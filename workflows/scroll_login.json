@@ -5,55 +5,21 @@
     {
       "action": "scroll",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "html",
-          "voidElement": false,
-          "attrs": {},
-          "children": []
-        },
-        "ancestors": []
+        "ancestors": [],
+        "node": "<html/>"
       },
       "index": 0,
       "page": 0,
       "value": {
         "x": 0,
-        "y": 457
+        "y": 118
       }
     },
     {
       "action": "click",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "a",
-          "voidElement": false,
-          "attrs": {
-            "href": "/login"
-          },
-          "children": [
-            {
-              "type": "text",
-              "content": "Form Authentication"
-            }
-          ]
-        },
-        "ancestors": [
-          {
-            "type": "tag",
-            "name": "li",
-            "voidElement": false,
-            "attrs": {},
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "ul",
-            "voidElement": false,
-            "attrs": {},
-            "children": []
-          }
-        ]
+        "ancestors": ["<li></li>", "<ul></ul>"],
+        "node": "<a href=\"/login\" innertext=\"Form Authentication\">Form Authentication</a>"
       },
       "index": 1,
       "page": 0
@@ -61,76 +27,24 @@
     {
       "action": "type",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "input",
-          "voidElement": true,
-          "attrs": {
-            "type": "text",
-            "name": "username",
-            "id": "username"
-          },
-          "children": []
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "large-6 small-12 columns"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "row"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"large-6 small-12 columns\"></div>",
+          "<div class=\"row\"></div>"
+        ],
+        "node": "<input type=\"text\" name=\"username\" id=\"username\" labels=\"Username\"/>"
       },
       "index": 2,
       "page": 0,
-      "value": "↓KeyT↑KeyT↓KeyO↑KeyO↓KeyM↑KeyM↓KeyS↓KeyM↑KeyS↑KeyM↓KeyI↑KeyI↓KeyT↑KeyT↓KeyH↑KeyH"
+      "value": "↓KeyT↑KeyT↓KeyO↑KeyO↓KeyM↑KeyM↓KeyS↑KeyS↓KeyM↑KeyM↓KeyI↑KeyI↓KeyT↑KeyT↓KeyH↑KeyH"
     },
     {
       "action": "type",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "input",
-          "voidElement": true,
-          "attrs": {
-            "type": "text",
-            "name": "username",
-            "id": "username"
-          },
-          "children": []
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "large-6 small-12 columns"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "row"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"large-6 small-12 columns\"></div>",
+          "<div class=\"row\"></div>"
+        ],
+        "node": "<input type=\"text\" name=\"username\" id=\"username\" labels=\"Username\"/>"
       },
       "index": 3,
       "page": 0,
@@ -139,37 +53,11 @@
     {
       "action": "type",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "input",
-          "voidElement": true,
-          "attrs": {
-            "type": "password",
-            "name": "password",
-            "id": "password"
-          },
-          "children": []
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "large-6 small-12 columns"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "row"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"large-6 small-12 columns\"></div>",
+          "<div class=\"row\"></div>"
+        ],
+        "node": "<input type=\"password\" name=\"password\" id=\"password\" labels=\"Password\"/>"
       },
       "index": 4,
       "page": 0,
@@ -178,37 +66,11 @@
     {
       "action": "type",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "input",
-          "voidElement": true,
-          "attrs": {
-            "type": "password",
-            "name": "password",
-            "id": "password"
-          },
-          "children": []
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "large-6 small-12 columns"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "row"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"large-6 small-12 columns\"></div>",
+          "<div class=\"row\"></div>"
+        ],
+        "node": "<input type=\"password\" name=\"password\" id=\"password\" labels=\"Password\"/>"
       },
       "index": 5,
       "page": 0,
@@ -217,52 +79,11 @@
     {
       "action": "click",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "a",
-          "voidElement": false,
-          "attrs": {
-            "class": "button secondary radius",
-            "href": "/logout"
-          },
-          "children": [
-            {
-              "type": "tag",
-              "name": "i",
-              "voidElement": false,
-              "attrs": {
-                "class": "icon-2x icon-signout"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "content": " Logout"
-                }
-              ]
-            }
-          ]
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "example"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "id": "content",
-              "class": "large-12 columns"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"example\"></div>",
+          "<div id=\"content\" class=\"large-12 columns\"></div>"
+        ],
+        "node": "<a class=\"button secondary radius\" href=\"/logout\" innertext=\"Logout\"><i class=\"icon-2x icon-signout\"> Logout</i></a>"
       },
       "index": 6,
       "page": 0

@@ -1,14 +1,15 @@
 [
   {
     "isTrusted": true,
-    "name": "dropdown",
+    "name": "click",
     "target": {
       "node": {
         "type": "tag",
         "name": "select",
         "voidElement": false,
         "attrs": {
-          "id": "dropdown"
+          "id": "dropdown",
+          "innertext": "Please select an option&#10;Option 1&#10;Option 2"
         },
         "children": [
           {
@@ -83,7 +84,7 @@
         }
       ]
     },
-    "time": 1575139028332,
+    "time": 1575164039383,
     "page": 0
   },
   {
@@ -95,7 +96,8 @@
         "name": "select",
         "voidElement": false,
         "attrs": {
-          "id": "dropdown"
+          "id": "dropdown",
+          "innertext": "Please select an option&#10;Option 1&#10;Option 2"
         },
         "children": [
           {
@@ -170,7 +172,7 @@
         }
       ]
     },
-    "time": 1575139029375,
+    "time": 1575164040636,
     "value": "2",
     "page": 0
   }

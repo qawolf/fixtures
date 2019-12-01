@@ -1,0 +1,20 @@
+{
+  "name": "dropdown",
+  "size": "desktop",
+  "steps": [
+    {
+      "action": "select",
+      "html": {
+        "ancestors": [
+          "<div class=\"example\"></div>",
+          "<div id=\"content\" class=\"large-12 columns\"></div>"
+        ],
+        "node": "<select id=\"dropdown\" innertext=\"Please select an option&#10;Option 1&#10;Option 2\">      <option value=\"\" disabled=\"disabled\" selected=\"selected\">Please select an option</option><option value=\"1\">Option 1</option><option value=\"2\">Option 2</option></select>"
+      },
+      "index": 0,
+      "page": 0,
+      "value": "2"
+    }
+  ],
+  "url": "localhost:5000/dropdown"
+}

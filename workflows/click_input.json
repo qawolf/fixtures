@@ -5,38 +5,11 @@
     {
       "action": "click",
       "html": {
-        "node": {
-          "type": "tag",
-          "name": "input",
-          "voidElement": true,
-          "attrs": {
-            "type": "text",
-            "name": "username",
-            "id": "username",
-            "labels": "Username"
-          },
-          "children": []
-        },
         "ancestors": [
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "large-6 small-12 columns"
-            },
-            "children": []
-          },
-          {
-            "type": "tag",
-            "name": "div",
-            "voidElement": false,
-            "attrs": {
-              "class": "row"
-            },
-            "children": []
-          }
-        ]
+          "<div class=\"large-6 small-12 columns\"></div>",
+          "<div class=\"row\"></div>"
+        ],
+        "node": "<input type=\"text\" name=\"username\" id=\"username\" labels=\"Username\"/>"
       },
       "index": 0,
       "page": 0
