@@ -13,7 +13,7 @@
    },
    "ancestors": []
   },
-  "time": 1576786683295,
+  "time": 1576875771742,
   "value": "g"
  },
  {
@@ -30,7 +30,7 @@
    },
    "ancestors": []
   },
-  "time": 1576786683581,
+  "time": 1576875772155,
   "value": "i"
  },
  {
@@ -48,7 +48,7 @@
      "class": "js-selected-navigation-item reponav-item",
      "data-selected-links": "repo_issues repo_labels repo_milestones /qawolf/qawolf/issues",
      "href": "/qawolf/qawolf/issues",
-     "innertext": "Issues 11"
+     "innertext": "Issues 10"
     },
     "children": [
      {
@@ -114,7 +114,7 @@
       "children": [
        {
         "type": "text",
-        "content": "11"
+        "content": "10"
        }
       ]
      },
@@ -157,7 +157,7 @@
     }
    ]
   },
-  "time": 1576786683584
+  "time": 1576875772159
  },
  {
   "isTrusted": true,
@@ -173,7 +173,7 @@
    },
    "ancestors": []
   },
-  "time": 1576786683640,
+  "time": 1576875772278,
   "value": "i"
  },
  {
@@ -190,7 +190,7 @@
    },
    "ancestors": []
   },
-  "time": 1576786683660,
+  "time": 1576875772346,
   "value": "g"
  }
 ]
